@@ -13,3 +13,18 @@ commit ~ save
   git commit -am "your message"
 
   Working using GUI
+
+
+3. git log
+4. git checkout key_or_branch_name
+
+Working with branch:
+5. git branch
+
+5. git checkout -b new_branch_name   --> main->new_branch
+
+what is branch?
+why do we need branch?
+
+6. Manuscript 
+    - main
