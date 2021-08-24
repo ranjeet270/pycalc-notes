@@ -7,10 +7,10 @@ Git notes
 
 commit ~ save
 
-  git add files      ----> down arrow
-  git commit -m "your message" --->commit to main button
+  2a. git add files      ----> down arrow
+  2b. git commit -m "your message" --->commit to main button
   OR
-  git commit -am "your message"
+  2. git commit -am "your message"
 
   Working using GUI
 
@@ -26,5 +26,18 @@ Working with branch:
 what is branch?
 why do we need branch?
 
-6. Manuscript 
+6. Manuscript
     - main
+
+7. git merge with_branch_name
+
+8. git branch -d/D branch_to_delete
+
+9. customise terminal omzsh
+
+10. merge conflict
+
+11. pull request
+
+12. fork
+13. pull or fetch
