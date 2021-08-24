@@ -7,8 +7,8 @@ Git notes
 
 commit ~ save
 
-  git add files
-  git commit -m "your message"
+  git add files      ----> down arrow
+  git commit -m "your message" --->commit to main button
   OR
   git commit -am "your message"
 
