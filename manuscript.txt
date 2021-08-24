@@ -9,7 +9,7 @@ Keywords:
 Introduction:
 Learning git is very useful. It helps us to manage our projects in
 a efficient way.
-<<<<<<< HEAD
+
 
 
 
@@ -18,6 +18,4 @@ Write your methods sections
 
 Results:
 The results shows that learning git is not very hard....
-=======
-This sentence is added by supervisor. add more details about git.  
->>>>>>> supervisor
+This sentence is added by supervisor. add more details about git.
