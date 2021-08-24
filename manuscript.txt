@@ -18,4 +18,9 @@ Write your methods sections
 
 Results:
 The results shows that learning git is not very hard....
-This sentence is added by supervisor. add more details about git.
+This sentence is added by supervisor. add more details about git
+
+
+Conclusions:
+
+References:
