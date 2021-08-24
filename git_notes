@@ -11,3 +11,5 @@ commit ~ save
   git commit -m "your message"
   OR
   git commit -am "your message"
+
+  Working using GUI
