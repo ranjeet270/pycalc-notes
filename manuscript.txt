@@ -9,3 +9,7 @@ Keywords:
 Introduction:
 Learning git is very useful. It helps us to manage our projects in
 a efficient way.
+
+
+Methods:
+Write your methods sections
