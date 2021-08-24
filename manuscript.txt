@@ -11,10 +11,9 @@ Learning git is very useful. It helps us to manage our projects in
 a efficient way.
 
 
-<<<<<<< HEAD
+
 Methods:
 Write your methods sections
-=======
+
 Results:
 The results shows that learning git is not very hard....
->>>>>>> results
