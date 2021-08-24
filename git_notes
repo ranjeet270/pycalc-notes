@@ -1,1 +1,13 @@
 Git notes
+
+1. git clone url
+
+2. saving things:
+    -create a new file or you work with existing files
+
+commit ~ save
+
+  git add files
+  git commit -m "your message"
+  OR
+  git commit -am "your message"
